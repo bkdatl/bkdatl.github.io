@@ -1,11 +1,11 @@
 # Site settings
-author: Will VanDerKloot
-title: 
+author: Will BKD
+title: My Journey into the world of data science.
 header-img: img/home-bg.png
 email: vanderkloot@gmail.com
-copyright_name: Will VanDerKloot
+copyright_name: Will BKD
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I'm here and why understanding data is important.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bkdatl
